@@ -1,4 +1,10 @@
 # labspy5
+
+GAMBAR FLOWCHART
+
+![image](https://user-images.githubusercontent.com/56722786/71417037-11ec7080-2618-11ea-94d2-fd0a85a58b70.png)
+
+
 Ketika program di jalakan akan muncul input pilihan yang mana ada ( Lihat, Tambah, Ubah, Hapus, Cari, Keluar) dengan kata kunci memasukkan awal huruf.
 
 Lihat = jika data masih kosong dengan len(data)=0, selain itu maka tampilkan data.
